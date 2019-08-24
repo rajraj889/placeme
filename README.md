@@ -5,7 +5,7 @@ HOME PAGE:
 PLACEMENT PAGE:
 ![pic2](https://user-images.githubusercontent.com/40288700/63635497-f3ce2e00-c680-11e9-8f56-c7a017271efb.PNG)
 
-WHEN YOU CLICK ON LIS OF COMPANIES:
+WHEN YOU CLICK ON LIST OF COMPANIES:
 ![pic3](https://user-images.githubusercontent.com/40288700/63635498-f3ce2e00-c680-11e9-9519-635c3680389b.PNG)
 
 WHEN YOU CLICK ON ADD COMPANY:
@@ -14,11 +14,12 @@ WHEN YOU CLICK ON ADD COMPANY:
 WHEN YOU CLICK SHARE EXPERIENCE:
 ![pic5](https://user-images.githubusercontent.com/40288700/63635492-f2046a80-c680-11e9-92d8-a26b2a606396.PNG)
 
-
+YOU MUST LOGIN THROUGH GMAIL:
 ![pic6](https://user-images.githubusercontent.com/40288700/63635493-f29d0100-c680-11e9-877f-c8606ff91874.PNG)
 
 ![pic7](https://user-images.githubusercontent.com/40288700/63635494-f29d0100-c680-11e9-89e1-f3ff57d060b6.PNG)
 
+FURTHER STUDIES:
 ![pic8](https://user-images.githubusercontent.com/40288700/63635495-f29d0100-c680-11e9-972d-6bb5eaffd1cc.PNG)
 
 
