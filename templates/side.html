@@ -1,0 +1,62 @@
+{% block sidebar %}
+
+<style>
+   .card{
+    box-shadow: 0 16px 48px #E3E7EB;
+    }
+    .button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.sidenav {
+  height: 25%;
+  border-radius: 20px;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 10%;
+  left: 4px;
+  border-style: groove;
+  background-color:  #0069D9;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+/* Style the sidenav links and the dropdown button */
+.sidenav a, .dropdown-btn {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #EFF1F3;
+  display: block;
+  border: none;
+  background: none;
+  width: 40%;
+  text-align: left;
+  cursor: pointer;
+  outline: none;
+}
+
+/* On mouse-over */
+.sidenav a:hover, .dropdown-btn:hover {
+  color: #020216;
+}
+
+</style>
+
+<!-- Sidebar Widgets Column -->
+<div class="sidenav">
+  <a></a>
+  <a href="{% url 'add_study' %}">SHARE YOUR EXPERIENCE</a>
+  <a></a>
+</div>
+
+{% endblock sidebar %}

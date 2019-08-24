@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+{% for c in company_list %}
+<div class="card mb-4" >
+  <div class="card-body">
+    <h2 class="card-title">COMPANY'S NAME :   {{ c.name }}</h2>
+    <p class="card-text">DATE VISITED :   {{c.visit_date }}</p>
+    <p class="card-text">NO OF STUDENTS RECRUITED :   {{c.no_recruited }}</p>
+  </div>
+</div>
+{% endfor %}
+
+{%endblock%}
