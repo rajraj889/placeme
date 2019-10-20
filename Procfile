@@ -1,1 +1,1 @@
-web: gunicorn placemee.wsgi --log-file -
+web: gunicorn placeme.wsgi --log-file -
